@@ -1,6 +1,6 @@
 # Nuxt.Config
 
-# Using this template:
+## Using this template:
 ```bash
 # using degit to clone template
 npx degit quelchlax/nuxt.config my-project

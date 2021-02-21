@@ -1,11 +1,16 @@
 # Nuxt.Config
 
-## Build Setup
+# Using this template:
+```bash
+# using degit to clone template
+npx degit quelchlax/nuxt.config my-project
+cd my-project
+npm install
+```
+
+## Nuxt.js Build Setup
 
 ```bash
-# install dependencies
-$ npm install
-
 # serve with hot reload at localhost:3000
 $ npm run dev
 

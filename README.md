@@ -3,7 +3,7 @@
 ## Using this template:
 ```bash
 # using degit to clone template
-npx degit quelchlax/nuxt.config my-project
+npx degit quelchlax/nuxt.init my-project
 cd my-project
 npm install
 ```

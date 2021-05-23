@@ -1,9 +1,9 @@
-# Nuxt.Config
+# Nuxt Start
 
 ## Using this template:
 ```bash
 # using degit to clone template
-npx degit quelchlax/nuxt.init my-project
+npx degit quelchx/nuxt-start my-project
 cd my-project
 npm install
 ```

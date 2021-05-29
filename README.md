@@ -3,9 +3,8 @@
 ## Using this template:
 ```bash
 # using degit to clone template
-npx degit quelchx/nuxt-start my-project
-cd my-project
-npm install
+npx degit quelchx/nuxt app
+cd app && npm i
 ```
 
 ## Nuxt.js Build Setup
